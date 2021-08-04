@@ -1,0 +1,1 @@
+# rust-m6designpatten
